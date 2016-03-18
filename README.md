@@ -55,7 +55,7 @@
 * I would have to deal with recursion, which is making the value terminate(if i do remember the definition correctly)
 * Soon, i began to face a little of algorithms
 
-##**Week 9**:
+##**Week 10**:
 * The next lessons i will learn this week is something more like software
 * this time, the lessons are program correctness, program verification and hoar triple
 * program correctness - proof is necessary to make the program work and it uses rules of inference
@@ -63,7 +63,7 @@
 * noar triple - a program is correct with respect to the initial and final assertion
 * They are kind of hard to understand, but useful in programming
 
-##**Week 10**:
+##**Week 11**:
 * This week, i learned about Zeno's Paradox
 * When this was discussed, i remember one of his students guess about the definition, saying that its like finding a love life :D
 * You can approach her but it takes forever(hahahahahahaha #Valentines)
@@ -71,7 +71,7 @@
 * They are kind of easy to remember but when it comes to problems, they could be tricky to solve
 * At least, i got the concepts quite well
 
-##**Week 11**:
+##**Week 12**:
 * This week, i learned about sets
 * like the previous lessons, its like a back-to-back review from algebra
 * sets are collections of unordered distinct objects
@@ -81,14 +81,14 @@
 * Then, I was suprised that the universal and intersection symbol also have rules similar to rules of inference
 * No wonder that the answers to venn diagram problems are so related
 
-##**Week 12**:
+##**Week 13**:
 * I leanred two things, nested quantifiers and functions
 * In nested quantifiers, i have to deal with universal and existential qunatifiers again
 * Also, I am assigned to use the to create a statement
 * I find it hard since numbers cab be quite confusing to deal with
 * In functions, there are three parts: domain, co-domain and range
 
-##**Week 13**:
+##**Week 14**:
 * For me, this week is the start of hardcore Dismath
 * The reason for that is it is the start of studying algotrithms or pseudocodes
 * For this week, I learned finding the maximum, linear search and binary search 
@@ -96,7 +96,7 @@
 * My mind was like "Why i=i+1 wherein when solving for i, answer is invalid due to the fact that i-i=0, then 0=1, which is false" 
 * After those discussions,  i realized that what sir said about dismath, which is the fact that I'll be facing "weird" symbols (hehehehehehehehe)
 
-##**Week 14**:
+##**Week 15**:
 * After the first three algorithms were discussed, another set of three algotrithms are presented
 * This time, these three are bubble sort, insertion sort and greedy algorithm
 * They are easy to understand when it comes to doing the steps and lists
@@ -104,7 +104,7 @@
 * Then, iteration tables were introduced
 * Honeslty speaking, i could hardly understand them since its hard for me to find a reason why number of inputs can be n-1 or something
 
-##**Week 15**:
+##**Week 16**:
 * The next lesson i encounter before the start of the econd quiz are the big-O, big-omega and big-theta
 * big-o indicates upper bound, big-omega indicates lower bound and big-theta indicates both
 * When i first hear the big-omega, it reminds me of Ohm's law or any topic about resistors
@@ -113,7 +113,7 @@
 * Its more like betting which number really gets the function and which number doesn't
 * It seems that the lesson is more like a guessing game, hehehehe
 
-##**Week 16**:
+##**Week 17**:
 * I learned about algorithm time-complexity
 * Its more like knowing the number of comparisons made by the algorithm
 * Like the previous experiences in the previous, i still get confused
