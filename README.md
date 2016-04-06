@@ -122,4 +122,28 @@
 * By hearing that, i could like imagine myself revealing the secret message of an ancient rune or something
 * Or maybe hide a message that i want to tell to someone like "hello"
 
+##**Week 18**:
+* On this week, i learned graph theory
+* Graphing is somewhat a way of plotting using nodes
+* Also, it is about making connections, which is the thing that we love doing, especially when we find our special someone
+* What i learned are path and circuit
+* Path is a graph that covers all edges whilecircuit is a path that covers all edges and goes back to the same node at the same time
+* From there i also encounter Euler path, Euler circuit, Hamilton path, Hamilton circuit and many more
+* The trickiest topic that i face is the planar graph
+* It is where you determine a graph is planar or not by checking whether the edges will cross or not as you try to get rid of crossing edges
+* Also, i encounter Kuratwski's theorem, which states that a graph is nonplanar if and only if it is homeomorphic to either K(3,3) or k(5)
+
+##**Week 19**:
+* On the last week of DISMATH, I learned about trees and modeling computation
+* For the trees part, i learned that a tree is a graph that has no loop
+* And i observed that it is widely used in determining hierarchy such as the psitions of officers, family tree and others
+* I also learned its parts such as branch and root
+* For the modeling computation part, i noticed that it gives more emphasis to correctness
+* It was more like English, but in a way more logic way
+* Like for example, this sentence "The frog writes neatly", is considered valid by rules of dismath and it may also be invalid by science
+* Since it's more like English, it gives familiar terms such as grammar, vocabulary and others
+* I learned that DISMATH follows aon order of grammar in order to make the program work
+* After all, DISMATH is all about logic
+* And right now, I will await the the result of my performance in this DISMATH
+* May the logic be with me, hehehehehehe :D
 
